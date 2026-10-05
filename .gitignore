@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.turbo/
+*.tsbuildinfo
+*.log
+.DS_Store
+.env
+.env*.local
+coverage/
+# Supabase local state
+supabase/.temp/
+supabase/.branches/
